@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lista de eventos virtuales relacionados con la cultura cannabica</title>
+    <link>http://armate.uno/</link>
+    <description>Recent content on Lista de eventos virtuales relacionados con la cultura cannabica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 14:20:59 +0200</lastBuildDate>
+    
+	<atom:link href="http://armate.uno/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://armate.uno/posts/my-first-post/</link>
+      <pubDate>Sun, 19 Apr 2020 14:20:59 +0200</pubDate>
+      
+      <guid>http://armate.uno/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
